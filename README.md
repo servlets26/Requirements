@@ -24,5 +24,5 @@ Plans for next meeting:
   3. Bao - write about the old system problems.
   4. All - noun/verb analysis. Discuss them on the meeting
 
-Author: Glakho
+Author: Glakho Robakidze
 ______________________________________________________________
