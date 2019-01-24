@@ -23,6 +23,8 @@ Plans for next meeting:
   2. Ben - write about the new system requirements.
   3. Bao - write about the old system problems.
   4. All - noun/verb analysis. Discuss them on the meeting
+  5. All - read the customer requirements again and have another look at the questions and put any additions or corrections next to them where necessary.
+  on any correction or addition please write your name next to them and we will look at it tomorrow and make the final version. 
 
 Author: Glakho Robakidze
 ______________________________________________________________
