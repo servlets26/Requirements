@@ -16,6 +16,7 @@ Ben(Questions to further clarify the requirements){
 10. Will corporate customer/business, have different services than a normal customer?
 11. To what extent should the stock system be automated?
 12. Instead of only have notifications should we also send automated emails to the clients?
+13. will the receptionist need to wait for input from the foreperson( what if they’re not in) and how will they communicate?
 }
 
 Will customers need to pay a deposit while making a booking?
