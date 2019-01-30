@@ -49,7 +49,25 @@ We identified the following use cases:
   -addJob
   -processJob
   -generateReport
-  -
+  -setPayLaterOption
+  -setCustomerAccount
+  -alterCustomerAccount
+  -setDiscountPlan
+  -alterDiscountPlan
+  -addToPendingJobList
+  -allocateMechanic
+  -pickJob
+  -alterJobStatus
+  -generateInvoice
+  -updateStock
+  -monitorJob
+  -controlStock
+  -logIn
+  -logOut
+  -generateAlerts
+  -trackStockLevel
+  -print
+  -payBackCustomer
 
 
   Plans for the next meeting:
