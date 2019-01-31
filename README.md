@@ -46,27 +46,27 @@ We identified the following use cases:
   -removeUserAccount
   -backupDatabase
   -restoreDatabase
-  -addJob
+  -addJob*
   -processJob
-  -generateReport
+  -generateReport*
   -setPayLaterOption
-  -setCustomerAccount
-  -alterCustomerAccount
+  -setCustomerAccount*
+  -alterCustomerAccount*
   -setDiscountPlan
   -alterDiscountPlan
-  -addToPendingJobList
-  -allocateMechanic
+  -addToPendingJobList*
+  -allocateMechanic*
   -pickJob
   -alterJobStatus
-  -generateInvoice
-  -updateStock
+  -generateInvoice*
+  -updateStock*
   -monitorJob
   -controlStock
-  -logIn
-  -logOut
+  -logIn*
+  -logOut*
   -generateAlerts
   -trackStockLevel
-  -print
+  -print*
   -payBackCustomer
 
 
