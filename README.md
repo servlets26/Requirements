@@ -77,3 +77,11 @@ We identified the following use cases:
 
   Author: Glakho Robakidze
   ______________________________________________________________
+Group meeting: 3 05/02/2019
+
+TODO: -revise use case Diagram
+      -Class diagram: glakho, Eddy
+      -ER diagram: Ben, Chris
+      -GUI: Martin, Bao
+
+have prototype of every task on thursday
