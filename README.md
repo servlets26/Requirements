@@ -85,3 +85,22 @@ TODO: -revise use case Diagram
       -GUI: Martin, Bao
 
 have prototype of every task on thursday
+
+
+
+
+--------------------------------------------------------------------------------
+Group meeting 4: 07/02/2019
+
+During this meeting we met together, and worked in pairs as stated in the last meeting, to cary on creating the design stage of the first delivarable.
+
+Chris & Ben(+ Martin) - ER diagram
+Glakho & Eddie - Class Diagram
+Bao & Martin - GUI
+
+Plans for next meeting-
+- Complete plausable prototype of each diagram
+- Present to the team
+
+
+Author: Beniamin Trip
